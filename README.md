@@ -1,0 +1,2 @@
+# SQL-for-DATASCIENCE
+UPDATE statement/ HANDS-ON
